@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mikołaj Ryśkiewicz</title>
+    <link>https://mryskiewicz.github.io/</link>
+    <description>Recent content on Mikołaj Ryśkiewicz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl</language><atom:link href="https://mryskiewicz.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>O mnie</title>
+      <link>https://mryskiewicz.github.io/o_mnie/</link>
+      <pubDate>Sat, 25 Jun 2022 21:53:26 +0200</pubDate>
+      
+      <guid>https://mryskiewicz.github.io/o_mnie/</guid>
+      <description>Jestem prawnikiem i ekonomistą.
+Obecnie w ramach studiów doktoranckich na Uniwersytecie Warszawskim prowadzę badania dotyczące relacji między niestabilnością prawa a jego komunikatywnością.
+Moje zainteresowania badawcze obejmują:
+język prawny i prawniczy – juryslingwistykę, teorię, praktykę i prakseologię legislacji, uczenie maszynowe i statystykę, wykorzystanie tychże w badaniach prawa, filozofię prawa, języka i epistemologię, literaturoznawstwo, spojrzenie na język z perspektywy teorii prawa (językoznawstwo anormatywne). Jestem dostępny pod adresami:
+m.ryskiewicz [at] uw.edu.pl &amp;ndash; we wszelkich sprawach naukowych i uniwersyteckich, miryskiewicz [at] gmail.</description>
+    </item>
+    
+    <item>
+      <title>Varia</title>
+      <link>https://mryskiewicz.github.io/varia/</link>
+      <pubDate>Sat, 25 Jun 2022 21:53:23 +0200</pubDate>
+      
+      <guid>https://mryskiewicz.github.io/varia/</guid>
+      <description>Teleturnieje, w których zdarzyło mi się wziąć udział: Jeden z dziesięciu, seria 130, odcinek 20: odpadłem w 2. etapie. Konkursy literackie: II miejsce w Ogólnopolskim Konkursie Poetyckim &amp;ldquo;Nadchodzące pokolenie&amp;rdquo;, Bytom 2019. </description>
+    </item>
+    
+    <item>
+      <title>Dydaktyka</title>
+      <link>https://mryskiewicz.github.io/dydaktyka/</link>
+      <pubDate>Sat, 25 Jun 2022 21:53:19 +0200</pubDate>
+      
+      <guid>https://mryskiewicz.github.io/dydaktyka/</guid>
+      <description>Prawoznawstwo, 2022/23: W semestrze zimowym będę prowadził zajęcia w czwartki o 8:00 i 9:45 w sali 319 w Collegium Iuridicum I.
+Informacje organizacyjne pojawią się w późniejszym terminie.
+Prawoznawstwo, 2021/22: Zajęcia zakończyły się. Bardzo serdecznie dziękuję wszystkim za udział i zaangażowanie.</description>
+    </item>
+    
+    <item>
+      <title>Data Science</title>
+      <link>https://mryskiewicz.github.io/data_science/</link>
+      <pubDate>Sat, 25 Jun 2022 21:53:09 +0200</pubDate>
+      
+      <guid>https://mryskiewicz.github.io/data_science/</guid>
+      <description>Wybrane problemy, które rozwiązywałem z użyciem uczenia maszynowego: ocena zrozumiałości polskich aktów prawnych, przewidywanie nadużyć ubezpieczeniowych, przewidywanie fraudów transakcyjnych, eksploracja czynników wpływających na powodzenie kampanii reklamowych. W swoich analizach korzystam z: podstawowych narzędzi statystyki opisowej, narzędzi statystyki inferencyjnej: testów parametrycznych i nieparametrycznych, modeli regresyjnych: liniowych, logistycznych i regularyzowanych, drzew decyzyjnych, maszyn wektorów nośnych, modeli uczenia zespołowego: lasów losowych, adaboostingu, gradient boostingu. Przy pracy badawczej używam: języka Python (pandas, numpy, matplotlib, scikit-learn, TensorFlow, beautifulsoup4), języka R (tidyverse: dplyr, tidyr, ggplot2; tidymodels), języka SQL, Excela, git do kontroli wersji, języka zapisu markdown.</description>
+    </item>
+    
+    <item>
+      <title>Aktywność naukowa</title>
+      <link>https://mryskiewicz.github.io/aktywnosc/</link>
+      <pubDate>Sat, 25 Jun 2022 21:46:14 +0200</pubDate>
+      
+      <guid>https://mryskiewicz.github.io/aktywnosc/</guid>
+      <description>Edukacja od 2020 r., studia doktoranckie, nauki prawne, Szkoła Doktorska Nauk Społecznych Uniwersytetu Warszawskiego od 2017 do 2021 r., studia licencjackie, metody ilościowe w ekonomii i systemy informacyjne, Szkoła Główna Handlowa od 2015 do 2020 r., studia magisterskie, prawo, Uniwersytet Warszawski, skończone z wyróżnieniem (summa cum laude) Publikacje Pracuję nad tym :)
+Konferencje 24 czerwca 2022 r., Językowy obraz świata prawnego, Ogólnopolska Konferencja Naukowa &amp;ldquo;Język i tożsamość&amp;rdquo;, Uniwersytet Warszawski 3 czerwca 2022 r.</description>
+    </item>
+    
+  </channel>
+</rss>
