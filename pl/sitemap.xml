@@ -2,75 +2,75 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mryskiewicz.github.io/o_mnie/</loc>
+    <loc>https://ryskiewi.cz/o_mnie/</loc>
     <lastmod>2022-06-25T21:53:26+02:00</lastmod>
   </url><url>
-    <loc>https://mryskiewicz.github.io/varia/</loc>
+    <loc>https://ryskiewi.cz/varia/</loc>
     <lastmod>2022-06-25T21:53:23+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mryskiewicz.github.io/en/varia/"
+                href="https://ryskiewi.cz/en/varia/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://mryskiewicz.github.io/varia/"
+                href="https://ryskiewi.cz/varia/"
                 />
   </url><url>
-    <loc>https://mryskiewicz.github.io/dydaktyka/</loc>
+    <loc>https://ryskiewi.cz/dydaktyka/</loc>
     <lastmod>2022-06-25T21:53:19+02:00</lastmod>
   </url><url>
-    <loc>https://mryskiewicz.github.io/data_science/</loc>
+    <loc>https://ryskiewi.cz/data_science/</loc>
     <lastmod>2022-06-25T21:53:09+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mryskiewicz.github.io/en/data_science/"
+                href="https://ryskiewi.cz/en/data_science/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://mryskiewicz.github.io/data_science/"
+                href="https://ryskiewi.cz/data_science/"
                 />
   </url><url>
-    <loc>https://mryskiewicz.github.io/aktywnosc/</loc>
+    <loc>https://ryskiewi.cz/aktywnosc/</loc>
     <lastmod>2022-06-25T21:46:14+02:00</lastmod>
   </url><url>
-    <loc>https://mryskiewicz.github.io/categories/</loc>
+    <loc>https://ryskiewi.cz/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mryskiewicz.github.io/en/categories/"
+                href="https://ryskiewi.cz/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://mryskiewicz.github.io/categories/"
+                href="https://ryskiewi.cz/categories/"
                 />
   </url><url>
-    <loc>https://mryskiewicz.github.io/</loc>
+    <loc>https://ryskiewi.cz/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mryskiewicz.github.io/en/"
+                href="https://ryskiewi.cz/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://mryskiewicz.github.io/"
+                href="https://ryskiewi.cz/"
                 />
   </url><url>
-    <loc>https://mryskiewicz.github.io/tags/</loc>
+    <loc>https://ryskiewi.cz/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mryskiewicz.github.io/en/tags/"
+                href="https://ryskiewi.cz/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://mryskiewicz.github.io/tags/"
+                href="https://ryskiewi.cz/tags/"
                 />
   </url>
 </urlset>
