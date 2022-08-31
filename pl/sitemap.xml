@@ -7,16 +7,6 @@
   </url><url>
     <loc>https://ryskiewi.cz/varia/</loc>
     <lastmod>2022-06-25T21:53:23+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ryskiewi.cz/en/varia/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://ryskiewi.cz/varia/"
-                />
   </url><url>
     <loc>https://ryskiewi.cz/dydaktyka/</loc>
     <lastmod>2022-06-25T21:53:19+02:00</lastmod>
@@ -34,7 +24,7 @@
                 href="https://ryskiewi.cz/data_science/"
                 />
   </url><url>
-    <loc>https://ryskiewi.cz/aktywnosc/</loc>
+    <loc>https://ryskiewi.cz/nauka/</loc>
     <lastmod>2022-06-25T21:46:14+02:00</lastmod>
   </url><url>
     <loc>https://ryskiewi.cz/categories/</loc>

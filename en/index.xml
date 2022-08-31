@@ -13,29 +13,10 @@
       
       <guid>https://ryskiewi.cz/en/about/</guid>
       <description>I am a lawyer and an economist.
-Currently, as part of my PhD studies at the University of Warsaw, I am conducting research on the relationship between the instability of law and its communicability.
+As part of my PhD studies at the University of Warsaw, I am conducting research on the relationship between the instability of law and its communicability.
+I also work as a Data Scientist.
 My research interests include:
 legal language and legalese - legal linguistics, theory, practice and praxeology of legislation, machine learning and statistics, the use of these in the study of law, philosophy of law, language and epistemology, literary studies, looking at language from the perspective of legal theory (anormative linguistics).</description>
-    </item>
-    
-    <item>
-      <title>Teaching</title>
-      <link>https://ryskiewi.cz/en/teaching/</link>
-      <pubDate>Sat, 25 Jun 2022 22:16:15 +0200</pubDate>
-      
-      <guid>https://ryskiewi.cz/en/teaching/</guid>
-      <description>During my PhD I teach Introduction to Jurisprudence studies.
-In 2021/22 academic year I have taught one group. In 2022/23 academic year I will teach two groups.
-The classes are in Polish so all relevant information is stored in a Polish version of this site.</description>
-    </item>
-    
-    <item>
-      <title>Varia</title>
-      <link>https://ryskiewi.cz/en/varia/</link>
-      <pubDate>Sat, 25 Jun 2022 22:16:07 +0200</pubDate>
-      
-      <guid>https://ryskiewi.cz/en/varia/</guid>
-      <description>Teletournaments I happened to participate in: One of Ten, series 130, episode 20: I dropped out in stage 2. Literary competitions: Second place in the National Poetry Contest &amp;ldquo;The Coming Generation&amp;rdquo;, Bytom 2019. </description>
     </item>
     
     <item>
@@ -44,7 +25,9 @@ The classes are in Polish so all relevant information is stored in a Polish vers
       <pubDate>Sat, 25 Jun 2022 22:16:01 +0200</pubDate>
       
       <guid>https://ryskiewi.cz/en/data_science/</guid>
-      <description>Selected problems I solved using machine learning: assessing the comprehensibility of Polish legal acts, prediction of insurance fraud, prediction of transactional fraud, exploration of factors affecting the success of advertising campaigns. In my analyses I use: basic tools of descriptive statistics, tools of inferential statistics: parametric and non-parametric tests, regression models: linear, logistic and regularized, decision trees, support vector machines, ensemble learning models: random forests, adaboosting, gradient boosting. For research work I use: Python language (pandas, numpy, matplotlib, scikit-learn, TensorFlow, beautifulsoup4), R language (tidyverse: dplyr, tidyr, ggplot2; tidymodels), SQL language, Excel, git for version control, markdown writing language.</description>
+      <description>About I work as a Senior Data Scientist at Silent Eight.
+If you need to analyze a set of data in a statistically reliable way, want to predict how a phenomenon will develop in the future or just like pretty charts &amp;ndash; write to miryskiewicz [at] gmail.com.
+Selected problems I solved using machine learning: assessing the comprehensibility of Polish legal acts, prediction of insurance fraud, prediction of transactional fraud, exploration of factors affecting the success of advertising campaigns.</description>
     </item>
     
     <item>
