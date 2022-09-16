@@ -5,7 +5,36 @@
     <link>https://ryskiewi.cz/</link>
     <description>Recent content on Mikołaj Ryśkiewicz</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pl</language><atom:link href="https://ryskiewi.cz/index.xml" rel="self" type="application/rss+xml" />
+    <language>pl</language>
+    <lastBuildDate>Thu, 15 Sep 2022 12:06:20 +0200</lastBuildDate><atom:link href="https://ryskiewi.cz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Esej</title>
+      <link>https://ryskiewi.cz/dydaktyka/esej/</link>
+      <pubDate>Thu, 15 Sep 2022 12:06:20 +0200</pubDate>
+      
+      <guid>https://ryskiewi.cz/dydaktyka/esej/</guid>
+      <description>Informacje nt. tematów esejów i wskazówki co do ich pisania pojawią się w późniejszym terminie.</description>
+    </item>
+    
+    <item>
+      <title>Kryteria zaliczenia</title>
+      <link>https://ryskiewi.cz/dydaktyka/zaliczenie/</link>
+      <pubDate>Tue, 06 Sep 2022 18:06:20 +0200</pubDate>
+      
+      <guid>https://ryskiewi.cz/dydaktyka/zaliczenie/</guid>
+      <description>Obecność maksymalnie 2 nieusprawiedliwione nieobecności, 3 i każda kolejna nieobecność → konieczność zaliczenia materiału na dyżurze, więcej niż 50% nieobecności → nieklasyfikowanie. Punkty 24 punkty za kolokwium nr 1, 24 punkty za kolokwium nr 2, 24 punkty za esej: 3 punkty za styl językowy, 3 punkty za styl graficzny, 6 punktów za poprawność merytoryczną, 6 punktów za własny wkład, 6 punktów za jakość wywodu; 12 punktów za aktywność, 8 punktów za prezentację: można, ale nie trzeba posiłkować się slajdami, nie można natomiast czytać, prezentacja może trwać najwyżej 7 minut (kara za przekroczenie to -2 punkty), punktacja dzieli się następująco: 5 punktów za zawartość merytoryczną, 3 punkty za styl, 6 punktów za ustawę (praca w grupach), 2 punkty za miniesej, czyli łącznie co najmniej 100 punktów.</description>
+    </item>
+    
+    <item>
+      <title>Program zajęć</title>
+      <link>https://ryskiewi.cz/dydaktyka/program/</link>
+      <pubDate>Tue, 06 Sep 2022 18:06:20 +0200</pubDate>
+      
+      <guid>https://ryskiewi.cz/dydaktyka/program/</guid>
+      <description>Materiały dydaktyczne podręcznik: Chauvin, T., Stawecki, T., Winczorek, P. (2021). Wstęp do prawoznawstwa. Warszawa: C.H. Beck. podręcznik uzupełniający: Nowacki, J., Tobor, Z. (2020). Wstęp do prawoznawstwa. Warszawa: Wolters Kluwer. Zajęcia 1. Wprowadzenie (6.10.2022) Program zajęć:
+Wprowadzenie do zajęć Warunki zaliczenia Źródła informacji prawnej Źródła informacji naukowej Praca domowa: Na podstawie podręcznika, własnej wiedzy i, ewentualnie, innych źródeł proszę opisać oś sporu między doktrynami prawnonaturalnymi a pozytywizmem prawniczym. Można dołączyć własne zdanie, ale nie trzeba.</description>
+    </item>
+    
     <item>
       <title>O mnie</title>
       <link>https://ryskiewi.cz/o_mnie/</link>
@@ -35,9 +64,7 @@ m.ryskiewicz [at] uw.</description>
       <pubDate>Sat, 25 Jun 2022 21:53:19 +0200</pubDate>
       
       <guid>https://ryskiewi.cz/dydaktyka/</guid>
-      <description>Prawoznawstwo, 2022/23: W semestrze zimowym będę prowadził zajęcia w czwartki o 8:00 i 9:45 w sali 319 w Collegium Iuridicum I.
-Informacje organizacyjne pojawią się w późniejszym terminie.
-Prawoznawstwo, 2021/22: Zajęcia zakończyły się. Bardzo serdecznie dziękuję wszystkim za udział i zaangażowanie.</description>
+      <description>Prawoznawstwo, 2022/23 kryteria zaliczenia, program zajęć, informacje o eseju zaliczeniowym, grupa kontaktowa, lista zapisów na prezentację. Kontakt: m.ryskiewicz@uw.edu.pl.</description>
     </item>
     
     <item>
@@ -46,9 +73,9 @@ Prawoznawstwo, 2021/22: Zajęcia zakończyły się. Bardzo serdecznie dziękuję
       <pubDate>Sat, 25 Jun 2022 21:53:09 +0200</pubDate>
       
       <guid>https://ryskiewi.cz/data_science/</guid>
-      <description>O mnie Pracuję jako Senior Data Scientist w Silent Eight.
+      <description>Pracuję jako Senior Data Scientist w Silent Eight.
 Jeśli potrzebujesz przeanalizować zestaw danych w sposób statystycznie wiarygodny, chcesz przewidzieć, jak dane zjawisko rozwinie się w przyszłości bądź po prostu lubisz ładne wykresy &amp;ndash; napisz na miryskiewicz [at] gmail.com.
-Wybrane problemy, które rozwiązywałem z użyciem uczenia maszynowego: ocena zrozumiałości polskich aktów prawnych, przewidywanie nadużyć ubezpieczeniowych, przewidywanie fraudów transakcyjnych, eksploracja czynników wpływających na powodzenie kampanii reklamowych. W swoich analizach korzystam z: podstawowych narzędzi statystyki opisowej, narzędzi statystyki inferencyjnej: testów parametrycznych i nieparametrycznych, modeli regresyjnych: liniowych, logistycznych i regularyzowanych, drzew decyzyjnych, maszyn wektorów nośnych, modeli uczenia zespołowego: lasów losowych, adaboostingu, gradient boostingu.</description>
+Wybrane problemy, które rozwiązywałem z użyciem uczenia maszynowego ocena zrozumiałości polskich aktów prawnych, przewidywanie nadużyć ubezpieczeniowych, przewidywanie fraudów transakcyjnych, eksploracja czynników wpływających na powodzenie kampanii reklamowych. W swoich analizach korzystam z podstawowych narzędzi statystyki opisowej, narzędzi statystyki inferencyjnej: testów parametrycznych i nieparametrycznych, modeli regresyjnych: liniowych, logistycznych i regularyzowanych, drzew decyzyjnych, maszyn wektorów nośnych, modeli uczenia zespołowego: lasów losowych, adaboostingu, gradient boostingu; przetwarzania języka naturalnego (NLP).</description>
     </item>
     
     <item>

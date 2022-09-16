@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dydaktykas on Mikołaj Ryśkiewicz</title>
+    <link>https://ryskiewi.cz/dydaktyka/</link>
+    <description>Recent content in Dydaktykas on Mikołaj Ryśkiewicz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl</language>
+    <lastBuildDate>Thu, 15 Sep 2022 12:06:20 +0200</lastBuildDate><atom:link href="https://ryskiewi.cz/dydaktyka/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Esej</title>
+      <link>https://ryskiewi.cz/dydaktyka/esej/</link>
+      <pubDate>Thu, 15 Sep 2022 12:06:20 +0200</pubDate>
+      
+      <guid>https://ryskiewi.cz/dydaktyka/esej/</guid>
+      <description>Informacje nt. tematów esejów i wskazówki co do ich pisania pojawią się w późniejszym terminie.</description>
+    </item>
+    
+    <item>
+      <title>Kryteria zaliczenia</title>
+      <link>https://ryskiewi.cz/dydaktyka/zaliczenie/</link>
+      <pubDate>Tue, 06 Sep 2022 18:06:20 +0200</pubDate>
+      
+      <guid>https://ryskiewi.cz/dydaktyka/zaliczenie/</guid>
+      <description>Obecność maksymalnie 2 nieusprawiedliwione nieobecności, 3 i każda kolejna nieobecność → konieczność zaliczenia materiału na dyżurze, więcej niż 50% nieobecności → nieklasyfikowanie. Punkty 24 punkty za kolokwium nr 1, 24 punkty za kolokwium nr 2, 24 punkty za esej: 3 punkty za styl językowy, 3 punkty za styl graficzny, 6 punktów za poprawność merytoryczną, 6 punktów za własny wkład, 6 punktów za jakość wywodu; 12 punktów za aktywność, 8 punktów za prezentację: można, ale nie trzeba posiłkować się slajdami, nie można natomiast czytać, prezentacja może trwać najwyżej 7 minut (kara za przekroczenie to -2 punkty), punktacja dzieli się następująco: 5 punktów za zawartość merytoryczną, 3 punkty za styl, 6 punktów za ustawę (praca w grupach), 2 punkty za miniesej, czyli łącznie co najmniej 100 punktów.</description>
+    </item>
+    
+    <item>
+      <title>Program zajęć</title>
+      <link>https://ryskiewi.cz/dydaktyka/program/</link>
+      <pubDate>Tue, 06 Sep 2022 18:06:20 +0200</pubDate>
+      
+      <guid>https://ryskiewi.cz/dydaktyka/program/</guid>
+      <description>Materiały dydaktyczne podręcznik: Chauvin, T., Stawecki, T., Winczorek, P. (2021). Wstęp do prawoznawstwa. Warszawa: C.H. Beck. podręcznik uzupełniający: Nowacki, J., Tobor, Z. (2020). Wstęp do prawoznawstwa. Warszawa: Wolters Kluwer. Zajęcia 1. Wprowadzenie (6.10.2022) Program zajęć:
+Wprowadzenie do zajęć Warunki zaliczenia Źródła informacji prawnej Źródła informacji naukowej Praca domowa: Na podstawie podręcznika, własnej wiedzy i, ewentualnie, innych źródeł proszę opisać oś sporu między doktrynami prawnonaturalnymi a pozytywizmem prawniczym. Można dołączyć własne zdanie, ale nie trzeba.</description>
+    </item>
+    
+  </channel>
+</rss>

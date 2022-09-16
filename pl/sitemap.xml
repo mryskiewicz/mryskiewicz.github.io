@@ -2,6 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ryskiewi.cz/dydaktyka/</loc>
+    <lastmod>2022-09-15T12:06:20+02:00</lastmod>
+  </url><url>
+    <loc>https://ryskiewi.cz/dydaktyka/esej/</loc>
+    <lastmod>2022-09-15T12:06:20+02:00</lastmod>
+  </url><url>
+    <loc>https://ryskiewi.cz/</loc>
+    <lastmod>2022-09-15T12:06:20+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ryskiewi.cz/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://ryskiewi.cz/"
+                />
+  </url><url>
+    <loc>https://ryskiewi.cz/dydaktyka/zaliczenie/</loc>
+    <lastmod>2022-09-06T18:06:20+02:00</lastmod>
+  </url><url>
+    <loc>https://ryskiewi.cz/dydaktyka/program/</loc>
+    <lastmod>2022-09-06T18:06:20+02:00</lastmod>
+  </url><url>
     <loc>https://ryskiewi.cz/o_mnie/</loc>
     <lastmod>2022-06-25T21:53:26+02:00</lastmod>
   </url><url>
@@ -37,18 +62,6 @@
                 rel="alternate"
                 hreflang="pl"
                 href="https://ryskiewi.cz/categories/"
-                />
-  </url><url>
-    <loc>https://ryskiewi.cz/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ryskiewi.cz/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://ryskiewi.cz/"
                 />
   </url><url>
     <loc>https://ryskiewi.cz/tags/</loc>
