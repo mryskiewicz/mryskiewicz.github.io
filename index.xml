@@ -37,25 +37,12 @@ Wprowadzenie do zajęć Warunki zaliczenia Źródła informacji prawnej Źródł
     </item>
     
     <item>
-      <title>O mnie</title>
-      <link>https://ryskiewi.cz/o_mnie/</link>
-      <pubDate>Sat, 25 Jun 2022 21:53:26 +0200</pubDate>
-      
-      <guid>https://ryskiewi.cz/o_mnie/</guid>
-      <description>Jestem prawnikiem i ekonomistą.
-W ramach studiów doktoranckich na Uniwersytecie Warszawskim prowadzę badania dotyczące inflacji prawa oraz języka prawnego (szczególnie jego niezrozumiałości), przeważnie w wersji ilościowej.
-Zawodowo pracuję jako data scientist.
-Zainteresowania badawcze język prawny i prawniczy — juryslingwistyka, przetwarzanie języka naturalnego (NLP), teoria, praktyka i prakseologia legislacji, uczenie maszynowe i statystyka, wykorzystanie tychże w badaniach prawa, filozofia prawa, języka i epistemologia, literaturoznawstwo, spojrzenie na język z perspektywy teorii prawa (językoznawstwo anormatywne).</description>
-    </item>
-    
-    <item>
       <title>Varia</title>
       <link>https://ryskiewi.cz/varia/</link>
       <pubDate>Sat, 25 Jun 2022 21:53:23 +0200</pubDate>
       
       <guid>https://ryskiewi.cz/varia/</guid>
-      <description>Książki W grudniu 2022 nakładem wydawnictwa Mamiko ukazał się zbiór wierszy mojego autorstwa pt. &amp;ldquo;dokąd prowadzą urwane chodniki&amp;rdquo;.
-Konkursy II miejsce w Ogólnopolskim Konkursie Poetyckim &amp;ldquo;Nadchodzące pokolenie&amp;rdquo;, Bytom 2019. </description>
+      <description>Książki &amp;ldquo;dokąd prowadzą urwane chodniki&amp;rdquo;, wydawnictwo Mamiko, 2022 Teleturnieje Giganci Historii: Romantycy Polacy to wiedzą (seria 1, odcinek 10) Jeden z dziesięciu (seria 129, odcinek 20) </description>
     </item>
     
     <item>
@@ -64,7 +51,7 @@ Konkursy II miejsce w Ogólnopolskim Konkursie Poetyckim &amp;ldquo;Nadchodzące
       <pubDate>Sat, 25 Jun 2022 21:53:19 +0200</pubDate>
       
       <guid>https://ryskiewi.cz/dydaktyka/</guid>
-      <description>Prawoznawstwo, 2023/24 kryteria zaliczenia, program zajęć, informacje o eseju zaliczeniowym. Kontakt: m.ryskiewicz@uw.edu.pl.
+      <description>Prawoznawstwo kryteria zaliczenia, program zajęć, informacje o eseju zaliczeniowym. Kontakt: m.ryskiewicz@uw.edu.pl.
 Dotychczas prowadziłem 2022/23, semestr zimowy, Wstęp do prawoznawstwa, dwie grupy 2021/22, semestr zimowy, Wstęp do prawoznawstwa, jedna grupa </description>
     </item>
     
@@ -76,7 +63,7 @@ Dotychczas prowadziłem 2022/23, semestr zimowy, Wstęp do prawoznawstwa, dwie g
       <guid>https://ryskiewi.cz/data_science/</guid>
       <description>Pracuję jako Senior Data Scientist w Silent Eight.
 Zajmuję się przede wszystkim Przetwarzaniem Języka Naturalnego (NLP) i wszelkimi możliwościami wykorzystywania tekstów w budowaniu systemów sztucznej inteligencji.
-Wybrane problemy, które rozwiązywałem z użyciem uczenia maszynowego ocena zrozumiałości polskich aktów prawnych, przewidywanie nadużyć ubezpieczeniowych, przewidywanie fraudów transakcyjnych, eksploracja czynników wpływających na powodzenie kampanii reklamowych. W swoich analizach korzystam z podstawowych narzędzi statystyki opisowej, narzędzi statystyki inferencyjnej: testów parametrycznych i nieparametrycznych, modeli regresyjnych: liniowych, logistycznych i regularyzowanych, drzew decyzyjnych, maszyn wektorów nośnych, modeli uczenia zespołowego: lasów losowych, adaboostingu, gradient boostingu; przetwarzania języka naturalnego (NLP).</description>
+Wybrane problemy, które rozwiązywałem z użyciem uczenia maszynowego ocena zrozumiałości polskich aktów prawnych, przewidywanie nadużyć ubezpieczeniowych, przewidywanie fraudów transakcyjnych, eksploracja czynników wpływających na powodzenie kampanii reklamowych. W swoich analizach korzystam z podstawowych narzędzi statystyki opisowej, narzędzi statystyki inferencyjnej: testów parametrycznych i nieparametrycznych, modeli regresyjnych: liniowych, logistycznych i regularyzowanych, modeli pojedynczych: np.</description>
     </item>
     
     <item>
@@ -85,8 +72,9 @@ Wybrane problemy, które rozwiązywałem z użyciem uczenia maszynowego ocena zr
       <pubDate>Sat, 25 Jun 2022 21:46:14 +0200</pubDate>
       
       <guid>https://ryskiewi.cz/nauka/</guid>
-      <description>Edukacja od 2020, studia doktoranckie, nauki prawne, Szkoła Doktorska Nauk Społecznych Uniwersytetu Warszawskiego od 2017 do 2021, studia licencjackie, metody ilościowe w ekonomii i systemy informacyjne, Szkoła Główna Handlowa od 2015 do 2020, studia magisterskie, prawo, Uniwersytet Warszawski, skończone z wyróżnieniem (summa cum laude) Publikacje Pracuję nad tym :)
-Konferencje 14 stycznia 2023, Agregat prawny, Interdyscyplinarna Konferencja Szkoły Doktorskiej Nauk Społecznych, Uniwersytet Warszawski 24 listopada 2022, O potencjale, jaki oferuje teorii prawa przetwarzanie języka naturalnego, Międzynarodowa Konferencja Naukowa &amp;ldquo;O Pojmowaniu Prawa i Prawoznawstwa&amp;rdquo;, Uniwersytet Szczeciński, 9 lipca 2022, Dlaczego prawo nigdy nie dogoni rzeczywistości i dlaczego jednak powinno próbować, II Kongres Młodej Nauki, Uniwersytet Gdański 24 czerwca 2022, Językowy obraz świata prawnego, Ogólnopolska Konferencja Naukowa &amp;ldquo;Język i tożsamość&amp;rdquo;, Uniwersytet Warszawski 3 czerwca 2022, Skryte oblicze jurydyzacji — widmo delegitymizacji systemu praw człowieka, Ogólnopolska Konferencja Naukowa &amp;ldquo;W stronę globalnego konstytucjonalizmu?</description>
+      <description>Zainteresowania badawcze język prawny i prawniczy — juryslingwistyka przetwarzanie języka naturalnego (NLP) teoria, praktyka i prakseologia legislacji uczenie maszynowe i statystyka wykorzystanie tychże w badaniach prawa filozofia prawa, języka i epistemologia literaturoznawstwo spojrzenie na język z perspektywy teorii prawa (językoznawstwo anormatywne) Edukacja od 2020, studia doktoranckie, nauki prawne, Szkoła Doktorska Nauk Społecznych Uniwersytetu Warszawskiego:
+Badania nad:
+inflacją i zmiennością prawa, związkami tych procesów ze spadkiem jakości komunikacyjnej języka prawnego, wdrażaniem metod uczenia maszynowego do instrumentarium teoretycznoprawnego.</description>
     </item>
     
     <item>

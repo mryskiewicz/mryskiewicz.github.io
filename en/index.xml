@@ -7,18 +7,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>pl</language><atom:link href="https://ryskiewi.cz/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
-      <link>https://ryskiewi.cz/en/about/</link>
-      <pubDate>Sat, 25 Jun 2022 22:16:27 +0200</pubDate>
-      
-      <guid>https://ryskiewi.cz/en/about/</guid>
-      <description>I am a lawyer and an economist.
-As part of my PhD studies at the University of Warsaw, I am conducting research on the relationship between the instability of law and its communicability.
-I also work as a Data Scientist.
-Research interests legal language and legalese - legal linguistics, Natural Language Processing, theory, practice and praxeology of legislation, machine learning and statistics, the use of these in the study of law, philosophy of law, language and epistemology, literary studies, looking at language from the perspective of legal theory (anormative linguistics).</description>
-    </item>
-    
-    <item>
       <title>Data Science</title>
       <link>https://ryskiewi.cz/en/data_science/</link>
       <pubDate>Sat, 25 Jun 2022 22:16:01 +0200</pubDate>
@@ -26,7 +14,7 @@ Research interests legal language and legalese - legal linguistics, Natural Lang
       <guid>https://ryskiewi.cz/en/data_science/</guid>
       <description>I work as a Senior Data Scientist at Silent Eight.
 I am primarily involved in Natural Language Processing (NLP) and all possibilities of using texts in building artificial intelligence systems.
-Selected problems I solved using machine learning assessing the comprehensibility of Polish legal acts, prediction of insurance fraud, prediction of transactional fraud, exploration of factors affecting the success of advertising campaigns. In my analyses I use basic tools of descriptive statistics, tools of inferential statistics: parametric and non-parametric tests, regression models: linear, logistic and regularized, decision trees, support vector machines, ensemble learning models: random forests, adaboosting, gradient boosting; Natural Language Processing (NLP).</description>
+Selected problems I solved using machine learning assessing the comprehensibility of Polish legal acts, prediction of insurance fraud, prediction of transactional fraud, exploration of factors affecting the success of advertising campaigns. In my analyses I use basic tools of descriptive statistics, tools of inferential statistics: parametric and non-parametric tests, regression models: linear, logistic and regularized models, single models: e.</description>
     </item>
     
     <item>
@@ -35,8 +23,9 @@ Selected problems I solved using machine learning assessing the comprehensibilit
       <pubDate>Sat, 25 Jun 2022 21:50:35 +0200</pubDate>
       
       <guid>https://ryskiewi.cz/en/research/</guid>
-      <description>Education since 2020, PhD, Law, Doctoral School of Social Sciences, University of Warsaw 2017-2021, Bachelor, Quantitative Methods in Economics and Information Systems, Warsaw School of Economics 2015-2020, Master, Law, University of Warsaw, with honours (summa cum laude) Publications Working on that :)
-Conferences 14 Jan 2023, Legal aggregate, Interdisciplinary Conference of the Doctoral School in Social Sciences, University of Warsaw 24 Nov 2022, About the potential offered to the theory of law by the Natural Language Processing, International Scientific Conference &amp;ldquo;On the understanding of law and jurisprudence&amp;rdquo;, University of Szczecin, 9 Jul 2022, Why the law will never catch up with reality and why it should nevertheless try, II Congress of Young Science, University of Gdansk 24 Jun 2022, A linguistic picture of the legal world, National Scientific Conference &amp;ldquo;Language and Identity&amp;rdquo;, University of Warsaw 3 Jun 2022, The hidden face of juridification - the specter of delegitimization of the human rights system, National Scientific Conference &amp;ldquo;Towards Global Constitutionalism?</description>
+      <description>Research interests legal language and legalese - legal linguistics Natural Language Processing theory, practice and praxeology of legislation machine learning and statistics the use of these in the study of law philosophy of law, language and epistemology literary studies looking at language from the perspective of legal theory (anormative linguistics) Education since 2020, PhD, Law, Doctoral School of Social Sciences, University of Warsaw
+Mainly research on:
+the inflation and volatility of the law, the relationship of these processes to the decline in the communicative quality of legal language, the implementation of machine learning methods into the theoretical and legal instrumentarium.</description>
     </item>
     
   </channel>
