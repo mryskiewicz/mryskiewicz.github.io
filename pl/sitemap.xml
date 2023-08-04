@@ -2,7 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ryskiewi.cz/pl/zajecia/esej/</loc>
+    <loc>https://ryskiewi.cz/pl/dydaktyka/</loc>
+    <lastmod>2022-09-15T12:06:20+02:00</lastmod>
+  </url><url>
+    <loc>https://ryskiewi.cz/pl/dydaktyka/esej/</loc>
     <lastmod>2022-09-15T12:06:20+02:00</lastmod>
   </url><url>
     <loc>https://ryskiewi.cz/pl/</loc>
@@ -18,19 +21,16 @@
                 href="https://ryskiewi.cz/pl/"
                 />
   </url><url>
-    <loc>https://ryskiewi.cz/pl/zajecia/</loc>
-    <lastmod>2022-09-15T12:06:20+02:00</lastmod>
-  </url><url>
-    <loc>https://ryskiewi.cz/pl/zajecia/zaliczenie/</loc>
+    <loc>https://ryskiewi.cz/pl/dydaktyka/zaliczenie/</loc>
     <lastmod>2022-09-06T18:06:20+02:00</lastmod>
   </url><url>
-    <loc>https://ryskiewi.cz/pl/zajecia/program/</loc>
+    <loc>https://ryskiewi.cz/pl/dydaktyka/program/</loc>
     <lastmod>2022-09-06T18:06:20+02:00</lastmod>
   </url><url>
     <loc>https://ryskiewi.cz/pl/varia/</loc>
     <lastmod>2022-06-25T21:53:23+02:00</lastmod>
   </url><url>
-    <loc>https://ryskiewi.cz/pl/zajecia/</loc>
+    <loc>https://ryskiewi.cz/pl/dydaktyka/</loc>
     <lastmod>2022-06-25T21:53:19+02:00</lastmod>
   </url><url>
     <loc>https://ryskiewi.cz/pl/data_science/</loc>
@@ -49,29 +49,29 @@
     <loc>https://ryskiewi.cz/pl/nauka/</loc>
     <lastmod>2022-06-25T21:46:14+02:00</lastmod>
   </url><url>
-    <loc>https://ryskiewi.cz/pl/esej/fuller-1/</loc>
+    <loc>https://ryskiewi.cz/pl/dydaktyka/esej/fuller-1/</loc>
   </url><url>
-    <loc>https://ryskiewi.cz/pl/esej/fuller-2/</loc>
+    <loc>https://ryskiewi.cz/pl/dydaktyka/esej/fuller-2/</loc>
   </url><url>
-    <loc>https://ryskiewi.cz/pl/esej/hart-1/</loc>
+    <loc>https://ryskiewi.cz/pl/dydaktyka/esej/hart-1/</loc>
   </url><url>
-    <loc>https://ryskiewi.cz/pl/esej/hart-2/</loc>
+    <loc>https://ryskiewi.cz/pl/dydaktyka/esej/hart-2/</loc>
   </url><url>
-    <loc>https://ryskiewi.cz/pl/esej/perelman-1/</loc>
+    <loc>https://ryskiewi.cz/pl/dydaktyka/esej/perelman-1/</loc>
   </url><url>
-    <loc>https://ryskiewi.cz/pl/esej/perelman-2/</loc>
+    <loc>https://ryskiewi.cz/pl/dydaktyka/esej/perelman-2/</loc>
   </url><url>
-    <loc>https://ryskiewi.cz/pl/esej/petra%C5%BCycki-1/</loc>
+    <loc>https://ryskiewi.cz/pl/dydaktyka/esej/petra%C5%BCycki-1/</loc>
   </url><url>
-    <loc>https://ryskiewi.cz/pl/esej/petra%C5%BCycki-2/</loc>
+    <loc>https://ryskiewi.cz/pl/dydaktyka/esej/petra%C5%BCycki-2/</loc>
   </url><url>
-    <loc>https://ryskiewi.cz/pl/esej/radbruch-1/</loc>
+    <loc>https://ryskiewi.cz/pl/dydaktyka/esej/radbruch-1/</loc>
   </url><url>
-    <loc>https://ryskiewi.cz/pl/esej/radbruch-2/</loc>
+    <loc>https://ryskiewi.cz/pl/dydaktyka/esej/radbruch-2/</loc>
   </url><url>
-    <loc>https://ryskiewi.cz/pl/esej/rosanvallon-1/</loc>
+    <loc>https://ryskiewi.cz/pl/dydaktyka/esej/rosanvallon-1/</loc>
   </url><url>
-    <loc>https://ryskiewi.cz/pl/esej/rosanvallon-2/</loc>
+    <loc>https://ryskiewi.cz/pl/dydaktyka/esej/rosanvallon-2/</loc>
   </url><url>
     <loc>https://ryskiewi.cz/pl/categories/</loc>
     <xhtml:link
@@ -84,8 +84,6 @@
                 hreflang="pl"
                 href="https://ryskiewi.cz/pl/categories/"
                 />
-  </url><url>
-    <loc>https://ryskiewi.cz/pl/esej/</loc>
   </url><url>
     <loc>https://ryskiewi.cz/pl/tags/</loc>
     <xhtml:link
