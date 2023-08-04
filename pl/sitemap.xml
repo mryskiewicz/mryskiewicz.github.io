@@ -2,10 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ryskiewi.cz/pl/dydaktyka/</loc>
-    <lastmod>2022-09-15T12:06:20+02:00</lastmod>
-  </url><url>
-    <loc>https://ryskiewi.cz/pl/dydaktyka/esej/</loc>
+    <loc>https://ryskiewi.cz/pl/zajecia/esej/</loc>
     <lastmod>2022-09-15T12:06:20+02:00</lastmod>
   </url><url>
     <loc>https://ryskiewi.cz/pl/</loc>
@@ -21,16 +18,19 @@
                 href="https://ryskiewi.cz/pl/"
                 />
   </url><url>
-    <loc>https://ryskiewi.cz/pl/dydaktyka/zaliczenie/</loc>
+    <loc>https://ryskiewi.cz/pl/zajecia/</loc>
+    <lastmod>2022-09-15T12:06:20+02:00</lastmod>
+  </url><url>
+    <loc>https://ryskiewi.cz/pl/zajecia/zaliczenie/</loc>
     <lastmod>2022-09-06T18:06:20+02:00</lastmod>
   </url><url>
-    <loc>https://ryskiewi.cz/pl/dydaktyka/program/</loc>
+    <loc>https://ryskiewi.cz/pl/zajecia/program/</loc>
     <lastmod>2022-09-06T18:06:20+02:00</lastmod>
   </url><url>
     <loc>https://ryskiewi.cz/pl/varia/</loc>
     <lastmod>2022-06-25T21:53:23+02:00</lastmod>
   </url><url>
-    <loc>https://ryskiewi.cz/pl/dydaktyka/</loc>
+    <loc>https://ryskiewi.cz/pl/zajecia/</loc>
     <lastmod>2022-06-25T21:53:19+02:00</lastmod>
   </url><url>
     <loc>https://ryskiewi.cz/pl/data_science/</loc>
