@@ -2,56 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ryskiewi.cz/en/data_science/</loc>
+    <loc>https://ryskiewi.cz/data_science/</loc>
     <lastmod>2022-06-25T22:16:01+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
+                href="https://ryskiewi.cz/pl/data_science/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="https://ryskiewi.cz/data_science/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ryskiewi.cz/en/data_science/"
-                />
   </url><url>
-    <loc>https://ryskiewi.cz/en/research/</loc>
+    <loc>https://ryskiewi.cz/research/</loc>
     <lastmod>2022-06-25T21:50:35+02:00</lastmod>
   </url><url>
-    <loc>https://ryskiewi.cz/en/categories/</loc>
+    <loc>https://ryskiewi.cz/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
+                href="https://ryskiewi.cz/pl/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="https://ryskiewi.cz/categories/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ryskiewi.cz/en/categories/"
-                />
   </url><url>
-    <loc>https://ryskiewi.cz/en/</loc>
+    <loc>https://ryskiewi.cz/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
+                href="https://ryskiewi.cz/pl/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="https://ryskiewi.cz/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ryskiewi.cz/en/"
-                />
   </url><url>
-    <loc>https://ryskiewi.cz/en/tags/</loc>
+    <loc>https://ryskiewi.cz/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://ryskiewi.cz/tags/"
+                href="https://ryskiewi.cz/pl/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ryskiewi.cz/en/tags/"
+                href="https://ryskiewi.cz/tags/"
                 />
   </url>
 </urlset>

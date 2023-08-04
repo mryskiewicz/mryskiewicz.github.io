@@ -2,99 +2,101 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ryskiewi.cz/dyd/</loc>
+    <loc>https://ryskiewi.cz/pl/zajecia/esej/</loc>
     <lastmod>2022-09-15T12:06:20+02:00</lastmod>
   </url><url>
-    <loc>https://ryskiewi.cz/dyd/esej/</loc>
-    <lastmod>2022-09-15T12:06:20+02:00</lastmod>
-  </url><url>
-    <loc>https://ryskiewi.cz/</loc>
+    <loc>https://ryskiewi.cz/pl/</loc>
     <lastmod>2022-09-15T12:06:20+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ryskiewi.cz/en/"
+                href="https://ryskiewi.cz/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://ryskiewi.cz/"
+                href="https://ryskiewi.cz/pl/"
                 />
   </url><url>
-    <loc>https://ryskiewi.cz/dyd/zaliczenie/</loc>
+    <loc>https://ryskiewi.cz/pl/zajecia/</loc>
+    <lastmod>2022-09-15T12:06:20+02:00</lastmod>
+  </url><url>
+    <loc>https://ryskiewi.cz/pl/zajecia/zaliczenie/</loc>
     <lastmod>2022-09-06T18:06:20+02:00</lastmod>
   </url><url>
-    <loc>https://ryskiewi.cz/dyd/program/</loc>
+    <loc>https://ryskiewi.cz/pl/zajecia/program/</loc>
     <lastmod>2022-09-06T18:06:20+02:00</lastmod>
   </url><url>
-    <loc>https://ryskiewi.cz/varia/</loc>
+    <loc>https://ryskiewi.cz/pl/varia/</loc>
     <lastmod>2022-06-25T21:53:23+02:00</lastmod>
   </url><url>
-    <loc>https://ryskiewi.cz/dydaktyka/</loc>
+    <loc>https://ryskiewi.cz/pl/zajecia/</loc>
     <lastmod>2022-06-25T21:53:19+02:00</lastmod>
   </url><url>
-    <loc>https://ryskiewi.cz/data_science/</loc>
+    <loc>https://ryskiewi.cz/pl/data_science/</loc>
     <lastmod>2022-06-25T21:53:09+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ryskiewi.cz/en/data_science/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
                 href="https://ryskiewi.cz/data_science/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://ryskiewi.cz/pl/data_science/"
+                />
   </url><url>
-    <loc>https://ryskiewi.cz/nauka/</loc>
+    <loc>https://ryskiewi.cz/pl/nauka/</loc>
     <lastmod>2022-06-25T21:46:14+02:00</lastmod>
   </url><url>
-    <loc>https://ryskiewi.cz/dyd/esej/fuller-1/</loc>
+    <loc>https://ryskiewi.cz/pl/esej/fuller-1/</loc>
   </url><url>
-    <loc>https://ryskiewi.cz/dyd/esej/fuller-2/</loc>
+    <loc>https://ryskiewi.cz/pl/esej/fuller-2/</loc>
   </url><url>
-    <loc>https://ryskiewi.cz/dyd/esej/hart-1/</loc>
+    <loc>https://ryskiewi.cz/pl/esej/hart-1/</loc>
   </url><url>
-    <loc>https://ryskiewi.cz/dyd/esej/hart-2/</loc>
+    <loc>https://ryskiewi.cz/pl/esej/hart-2/</loc>
   </url><url>
-    <loc>https://ryskiewi.cz/dyd/esej/perelman-1/</loc>
+    <loc>https://ryskiewi.cz/pl/esej/perelman-1/</loc>
   </url><url>
-    <loc>https://ryskiewi.cz/dyd/esej/perelman-2/</loc>
+    <loc>https://ryskiewi.cz/pl/esej/perelman-2/</loc>
   </url><url>
-    <loc>https://ryskiewi.cz/dyd/esej/petra%C5%BCycki-1/</loc>
+    <loc>https://ryskiewi.cz/pl/esej/petra%C5%BCycki-1/</loc>
   </url><url>
-    <loc>https://ryskiewi.cz/dyd/esej/petra%C5%BCycki-2/</loc>
+    <loc>https://ryskiewi.cz/pl/esej/petra%C5%BCycki-2/</loc>
   </url><url>
-    <loc>https://ryskiewi.cz/dyd/esej/radbruch-1/</loc>
+    <loc>https://ryskiewi.cz/pl/esej/radbruch-1/</loc>
   </url><url>
-    <loc>https://ryskiewi.cz/dyd/esej/radbruch-2/</loc>
+    <loc>https://ryskiewi.cz/pl/esej/radbruch-2/</loc>
   </url><url>
-    <loc>https://ryskiewi.cz/dyd/esej/rosanvallon-1/</loc>
+    <loc>https://ryskiewi.cz/pl/esej/rosanvallon-1/</loc>
   </url><url>
-    <loc>https://ryskiewi.cz/dyd/esej/rosanvallon-2/</loc>
+    <loc>https://ryskiewi.cz/pl/esej/rosanvallon-2/</loc>
   </url><url>
-    <loc>https://ryskiewi.cz/categories/</loc>
+    <loc>https://ryskiewi.cz/pl/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ryskiewi.cz/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
                 href="https://ryskiewi.cz/categories/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://ryskiewi.cz/pl/categories/"
+                />
   </url><url>
-    <loc>https://ryskiewi.cz/tags/</loc>
+    <loc>https://ryskiewi.cz/pl/esej/</loc>
+  </url><url>
+    <loc>https://ryskiewi.cz/pl/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ryskiewi.cz/en/tags/"
+                href="https://ryskiewi.cz/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://ryskiewi.cz/tags/"
+                href="https://ryskiewi.cz/pl/tags/"
                 />
   </url>
 </urlset>

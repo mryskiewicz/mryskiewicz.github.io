@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mikołaj Ryśkiewicz</title>
+    <link>https://ryskiewi.cz/pl/</link>
+    <description>Recent content on Mikołaj Ryśkiewicz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 15 Sep 2022 12:06:20 +0200</lastBuildDate><atom:link href="https://ryskiewi.cz/pl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Esej</title>
+      <link>https://ryskiewi.cz/pl/zajecia/esej/</link>
+      <pubDate>Thu, 15 Sep 2022 12:06:20 +0200</pubDate>
+      
+      <guid>https://ryskiewi.cz/pl/zajecia/esej/</guid>
+      <description>Termin oddania eseju 17 grudnia 2023 r., 23:59
+Forma eseju poza stronami: tytułową i na bibliografię praca powinna liczyć od 4 do 8 stron przy zachowaniu poniższych wymagań, marginesy: 2.5 cm u góry, 1.5 cm u dołu, po 2 cm z lewej i prawej, czcionka: Times New Roman, wielkość: 12, intelinia: 1.5, wcięcie pierwszej linii akapitu: 1.25 cm, odstęp między akapitami: 0, tekst wyjustowany, niepogrubiony (poza wewnętrznymi tytułami), bez znaków pojedynczych i podwójnych na końcach wierszy, strony ponumerowane, format .</description>
+    </item>
+    
+    <item>
+      <title>Kryteria zaliczenia</title>
+      <link>https://ryskiewi.cz/pl/zajecia/zaliczenie/</link>
+      <pubDate>Tue, 06 Sep 2022 18:06:20 +0200</pubDate>
+      
+      <guid>https://ryskiewi.cz/pl/zajecia/zaliczenie/</guid>
+      <description>Obecność maksymalnie 2 nieusprawiedliwione nieobecności, 3 i każda kolejna nieobecność → konieczność zaliczenia materiału na dyżurze, więcej niż 50% nieobecności → nieklasyfikowanie. Punkty 40 punktów za kolokwium: 10 punktów za część zamkniętą, 15 punktów za część otwartą, 15 punktów za analizę aktu normatywnego; 30 punktów za esej: 4 punkty za styl językowy, 4 punkty za styl graficzny, 4 punkty za redakcję naukową, 2 punkty za poprawność merytoryczną, 6 punktów za własny wkład, 10 punktów za jakość wywodu; 20 punktów za pracę na zajęciach: 12 punktów za aktywność, 6 punktów za ustawę (praca w grupach), 2 punkty za miniesej; 10 punktów za prezentację/referat: 7 punktów za zawartość merytoryczną, 3 punkty za styl, czyli łącznie co najmniej 100 punktów.</description>
+    </item>
+    
+    <item>
+      <title>Program zajęć</title>
+      <link>https://ryskiewi.cz/pl/zajecia/program/</link>
+      <pubDate>Tue, 06 Sep 2022 18:06:20 +0200</pubDate>
+      
+      <guid>https://ryskiewi.cz/pl/zajecia/program/</guid>
+      <description>Materiały dydaktyczne podręcznik: Chauvin, T., Stawecki, T., Winczorek, P. (2021). Wstęp do prawoznawstwa. Warszawa: C.H. Beck. podręcznik uzupełniający: Nowacki, J., Tobor, Z. (2020). Wstęp do prawoznawstwa. Warszawa: Wolters Kluwer. Zajęcia 1. Wprowadzenie (2.10.23) Program zajęć:
+Wprowadzenie do zajęć Warunki zaliczenia Źródła informacji prawnej Źródła informacji naukowej Praca domowa: Na podstawie podręcznika, własnej wiedzy i, ewentualnie, innych źródeł proszę opisać oś sporu między doktrynami prawnonaturalnymi a pozytywizmem prawniczym. Można dołączyć własne zdanie, ale nie trzeba.</description>
+    </item>
+    
+    <item>
+      <title>Varia</title>
+      <link>https://ryskiewi.cz/pl/varia/</link>
+      <pubDate>Sat, 25 Jun 2022 21:53:23 +0200</pubDate>
+      
+      <guid>https://ryskiewi.cz/pl/varia/</guid>
+      <description>Książki &amp;ldquo;dokąd prowadzą urwane chodniki&amp;rdquo;, wydawnictwo Mamiko, 2022 Teleturnieje Skojarzenia Lata z Radiem (28 lipca 2023) Giganci Historii (Romantycy i Wielka Emigracja) Polacy to wiedzą (seria 1, odcinek 10) Jeden z dziesięciu (seria 129, odcinek 20) </description>
+    </item>
+    
+    <item>
+      <title>Zajęcia</title>
+      <link>https://ryskiewi.cz/pl/zajecia/</link>
+      <pubDate>Sat, 25 Jun 2022 21:53:19 +0200</pubDate>
+      
+      <guid>https://ryskiewi.cz/pl/zajecia/</guid>
+      <description>Prawoznawstwo kryteria zaliczenia, program zajęć, informacje o eseju zaliczeniowym. Kontakt: m.ryskiewicz@uw.edu.pl.
+Proszę nie pisać na adres w domenie @student.uw.edu.pl — te maile trafiają w niebyt i nigdy ich nie odczytam.</description>
+    </item>
+    
+    <item>
+      <title>Data Science</title>
+      <link>https://ryskiewi.cz/pl/data_science/</link>
+      <pubDate>Sat, 25 Jun 2022 21:53:09 +0200</pubDate>
+      
+      <guid>https://ryskiewi.cz/pl/data_science/</guid>
+      <description>Jako Data Scientist pracowałem w wielu projektach z różnych dziedzin.
+Zajmuję się przede wszystkim Przetwarzaniem Języka Naturalnego (NLP) i wszelkimi możliwościami wykorzystywania tekstów w budowaniu systemów sztucznej inteligencji.
+Wybrane problemy, które rozwiązywałem z użyciem uczenia maszynowego ocena zrozumiałości polskich aktów prawnych, przewidywanie nadużyć ubezpieczeniowych, przewidywanie fraudów transakcyjnych, eksploracja czynników wpływających na powodzenie kampanii reklamowych. W swoich analizach korzystam z podstawowych narzędzi statystyki opisowej, narzędzi statystyki inferencyjnej: testów parametrycznych i nieparametrycznych, modeli regresyjnych: liniowych, logistycznych i regularyzowanych, modeli pojedynczych: np.</description>
+    </item>
+    
+    <item>
+      <title>Nauka</title>
+      <link>https://ryskiewi.cz/pl/nauka/</link>
+      <pubDate>Sat, 25 Jun 2022 21:46:14 +0200</pubDate>
+      
+      <guid>https://ryskiewi.cz/pl/nauka/</guid>
+      <description>Zainteresowania badawcze wykorzystanie sztucznej inteligencji i uczenia maszynowego w badaniach prawnych (szczególnie teoretycznoprawnych) informatyka prawnicza (jurymetria) juryslingwistyka przetwarzanie języka naturalnego (NLP) filozofia języka, językoznawstwo kognitywne i deskryptywne Edukacja od 2020, studia doktoranckie, nauki prawne, Szkoła Doktorska Nauk Społecznych Uniwersytetu Warszawskiego:
+Badania nad:
+inflacją i zmiennością prawa, związkami tych procesów ze spadkiem jakości komunikacyjnej języka prawnego, wdrażaniem metod uczenia maszynowego do instrumentarium teoretycznoprawnego. od 2017 do 2021, studia licencjackie, metody ilościowe w ekonomii i systemy informacyjne, Szkoła Główna Handlowa</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ryskiewi.cz/pl/esej/fuller-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ryskiewi.cz/pl/esej/fuller-1/</guid>
+      <description>Wewnętrzna i zewnętrzna moralność prawa Pytania pomocnicze czym różni się moralność prawa od moralności w ogóle? na jakiej podstawie można by wyróżnić wewnętrzną moralność prawa — jaka wobec tego mogłaby być moralność zewnętrzna? jakie mogą być skutki niedochowania wewnętrznej moralności prawa? jak usytuować poglądy Fullera w kontekście wiodących doktryn prawnych? Lektury dodatkowe Bojek-Pohl, E. (2019). Prawo a moralność w angloamerykańskiej filozofii prawa. W: J. Helios i in. (red.), Prawo wobec wyzwań współczesności: wybrane problemy teoretycznoprawne i dogmatycznoprawne.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ryskiewi.cz/pl/esej/fuller-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ryskiewi.cz/pl/esej/fuller-2/</guid>
+      <description>Fullerowska moralność prawa a pozytywizm prawniczy Pytania pomocnicze jak osadzić podejście Fullera do prawa w kontekście dominujących nurtów refleksji teoretycznoprawnej? czy Fullera można określić przedstawicielem doktryny prawa natury? jakie są podobieństwa — a jakie różnice w podejściu Fullera do prawa względem poglądów pozytywistycznych? czy można by było różnicować podejście Fullera do pozytywizmu w zależności od jego (pozytywizmu) wersji? Lektury dodatkowe Bojek-Pohl, E. (2019). Prawo a moralność w angloamerykańskiej filozofii prawa. W: J.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ryskiewi.cz/pl/esej/hart-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ryskiewi.cz/pl/esej/hart-1/</guid>
+      <description>Otwartość tekstowa prawa: pojęcie, źródła i konsekwencje Pytania pomocnicze co to znaczy, że prawo jest &amp;ldquo;otwarte tekstowo&amp;rdquo;? w jakiej sytuacji można mówić o &amp;ldquo;zamkniętości&amp;rdquo; tekstu? czy prawo jest otwarte tekstowo ze względu na cechy własne – czy może ze względu na cechy dziedziczone? jak otwartość tekstowa prawa wpływa na problem precyzji przepisów? czy precyzja jest w ogóle osiągalna? jakie są możliwe rozwiązania problemu otwartej tekstowości – jeśli uważać ją za problem?</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ryskiewi.cz/pl/esej/hart-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ryskiewi.cz/pl/esej/hart-2/</guid>
+      <description>System prawa w ujęciu Herberta Harta Pytania pomocnicze co to znaczy, że prawo jest systemem? co wyróżnia takie podejście do prawa? z którym nurtem refleksji teoretycznoprawnej jest szczególnie związane? jakie rodzaje reguł wyróżnia Hart i — jeśli tak jest — na jakie dalej się dzielą? jaka jest rola reguł wtórnych w zapewnianiu elastyczności systemu prawnego? co wyróżnia podejście Harta w kontekście innych ujęć, propozycji i metafor systemu prawa? Lektury dodatkowe Endicott, T.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ryskiewi.cz/pl/esej/perelman-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ryskiewi.cz/pl/esej/perelman-1/</guid>
+      <description>Rola argumentacji w praktyce prawa Pytania pomocnicze co to znaczy, że prawo jest dyskursem argumentacyjnym? jaki obraz prawa wyłania się z analizy tekstu Perelmana? co można powiedzieć o Perelmanie w kontekście praktyki stosowania prawa? dlaczego ujęcie Perelmana to nowa retoryka? czym różni się od starej? jaka jest rola topik prawniczych w argumentacji? Lektury dodatkowe Arndt, W. (2021). Interdyscyplinarny wymiar teorii argumentacji Chaima Perelmana. Horyzonty Polityki, 12(41), 195-210. Kleszcz, R. (1985). Teoria argumentacji w ujęciu Chaima Perelmana.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ryskiewi.cz/pl/esej/perelman-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ryskiewi.cz/pl/esej/perelman-2/</guid>
+      <description>Rozwój teorii rozumowania sądowego Pytania pomocnicze jakie etapy przeszło dotąd rozumowanie sądowe? jakie wartości podlegały ewolucji podczas rozwoju teorii rozumowania? jak zmieniała się ich rola? co można powiedzieć o współczesnym kształcie rozumowania sądowego? czy można stwierdzić, że istnieje jakaś jedna teoria — czy może jest ich wiele? Lektury dodatkowe Araszkiewicz, M. (2010). Koherencyjny model rozumowań prawniczych. Archiwum Filozofii Prawa i Filozofii Społecznej, 1, 19-38. Arndt, W. (2021). Interdyscyplinarny wymiar teorii argumentacji Chaima Perelmana.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ryskiewi.cz/pl/esej/petra%C5%BCycki-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ryskiewi.cz/pl/esej/petra%C5%BCycki-1/</guid>
+      <description>Psychologiczne ujęcie prawa Petrażyckiego Pytania pomocnicze czy interpretacja filozofii prawa Petrażyckiego jako psychologicznej jest prawidłowa czy błędna? co Petrażycki zaczerpnął z psychologii, czego był prekursorem, a gdzie pierwiastek psychologiczny jest przeszacowany? czy prawo można badać z użyciem psychologicznych narzędzi? Lektury dodatkowe Barwicka-Tylek, I. (2010). W kwestii „psychologiczności” psychologicznej teorii prawa Leona Petrażyckiego. Państwo i Prawo, 65(2), 44-56. Bunikowski, D. (2011). Psychologiczne i realistyczne ujęcie prawa: Petrażycki a Olivecrona. Roczniki Naukowe Wyższej Szkoły Bankowej w Toruniu, 10, 369-386.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ryskiewi.cz/pl/esej/petra%C5%BCycki-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ryskiewi.cz/pl/esej/petra%C5%BCycki-2/</guid>
+      <description>Relacje moralności i prawa Pytania pomocnicze jak — jeśli w ogóle — można zaklasyfikować Petrażyckiego w kontekście fundamentalnego sporu o relacje moralności i prawa? jak można zrekonstruować podejście Petrażyckiego do prawa natury? jak można zrekonstruować podejście Petrażyckiego do pozytywizmu prawniczego? jaki wpływ wywarła myśl Petrażyckiego w tym zakresie? Lektury dodatkowe Bunikowski, D. (2011). Psychologiczne i realistyczne ujęcie prawa: Petrażycki a Olivecrona. Roczniki Naukowe Wyższej Szkoły Bankowej w Toruniu, 10, 369-386. Kik, M.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ryskiewi.cz/pl/esej/radbruch-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ryskiewi.cz/pl/esej/radbruch-1/</guid>
+      <description>Sprawiedliwość, celowość, bezpieczeństwo prawne Pytania pomocnicze jak można określić rolę sprawiedliwości, celowości i bezpieczeństwa prawnego w idei prawa Radbrucha? dlaczego właśnie te wartości zajmują tak szczególną rolę w jego filozofii prawa? czy da się je realizować jednocześnie? czy należy je optymalizować — jeśli tak, to w jakich konfiguracjach? Lektury dodatkowe Chauvin, T. (1999). Sprawiedliwość: między celowością a bezpieczeństwem prawnym. Ewolucja poglądów Gustawa Radbrucha. Studia Iuridica, 37, 15-39. Kociołek-Pęksa, A. (2017). W poszukiwaniu optymalnego i idealnego aksjologicznego modelu regulacji prawnej – idea prawa Gustawa Radbrucha.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ryskiewi.cz/pl/esej/radbruch-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ryskiewi.cz/pl/esej/radbruch-2/</guid>
+      <description>Pojęcie prawa w ujęciu Radbrucha Pytania pomocnicze skąd Radbruch czerpał inspiracje dla sformułowania swojego pojęcia prawa? co wyróżnia spojrzenie na prawo Radbrucha — w ogóle i w ramach pozytywizmu? czy pojęcie prawa Radbrucha jest w stanie obronić się przed prawnonaturalną krytyką? a może jakąś inną? jakie idee są fundamentalne dla zrozumienia podejścia Radbrucha? Lektury dodatkowe Bogacz, D. (2002). Formuła i filozofia prawa Gustawa Radbrucha. Ruch Prawniczy, Ekonomiczny i Społeczny, 3, 257-267.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ryskiewi.cz/pl/esej/rosanvallon-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ryskiewi.cz/pl/esej/rosanvallon-1/</guid>
+      <description>Sposoby rozumienia demokracji Pytania pomocnicze co to znaczy &amp;ldquo;demokracja&amp;rdquo;? w jaki sposób pojęcie to ewoluowało i jak rozumie się je obecnie? w które z tych pojęć wpisuje się rozumienie demokracji przez Rosanvallona? co jest oryginalnego w spojrzeniu Rosanvallona na demokrację? Lektury dodatkowe Nalewajko, E. (2019). Uwłaszczone politycznie społeczeństwa i wiarygodne rządy. Myśl Ekonomiczna i Polityczna, (4 (67)), 132-151. Pyka, R. (2014). Na rozdrożach współczesnej demokracji w kontekście partycypacji obywatelskiej młodzieży. Rosanvallon, P.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ryskiewi.cz/pl/esej/rosanvallon-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ryskiewi.cz/pl/esej/rosanvallon-2/</guid>
+      <description>Relacje między władzami Pytania pomocnicze jak osadzone są poszczególne władze w systemie &amp;ldquo;dobrych rządów&amp;rdquo;? jak można odnieść propozycje Rosanvallona do klasycznych propozycji podziału władz? jakim celom służą poszczególne relacje? Lektury dodatkowe Nalewajko, E. (2019). Uwłaszczone politycznie społeczeństwa i wiarygodne rządy. Myśl Ekonomiczna i Polityczna, (4 (67)), 132-151. Pyka, R. (2014). Na rozdrożach współczesnej demokracji w kontekście partycypacji obywatelskiej młodzieży. Rosanvallon, P. (2008). Nieufność i demokracja. Dialogi Polityczne, (10), 269-270. Rosanvallon, A.</description>
+    </item>
+    
+  </channel>
+</rss>
