@@ -5,39 +5,28 @@
     <link>https://ryskiewi.cz/</link>
     <description>Recent content on Mikołaj Ryśkiewicz</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://ryskiewi.cz/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <atom:link href="https://ryskiewi.cz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data Science</title>
       <link>https://ryskiewi.cz/data_science/</link>
       <pubDate>Sat, 25 Jun 2022 22:16:01 +0200</pubDate>
-      
       <guid>https://ryskiewi.cz/data_science/</guid>
-      <description>As a Data Scientist, I have worked on a wide range of projects in different fields.
-I am primarily involved in Natural Language Processing (NLP) and all possibilities of using texts in building artificial intelligence systems.
-Selected problems I solved using machine learning assessing the comprehensibility of Polish legal acts, prediction of insurance fraud, prediction of transactional fraud, exploration of factors affecting the success of advertising campaigns. In my analyses I use basic tools of descriptive statistics, tools of inferential statistics: parametric and non-parametric tests, regression models: linear, logistic and regularized models, single models: e.</description>
+      <description>As a Data Scientist, I have worked on a wide range of projects in different fields.&#xA;I am primarily involved in Natural Language Processing (NLP) and all possibilities of using texts in building artificial intelligence systems.&#xA;Selected problems I solved using machine learning assessing the comprehensibility of Polish legal acts, prediction of insurance fraud, prediction of transactional fraud, exploration of factors affecting the success of advertising campaigns. In my analyses I use basic tools of descriptive statistics, tools of inferential statistics: parametric and non-parametric tests, regression models: linear, logistic and regularized models, single models: e.</description>
     </item>
-    
     <item>
       <title>About</title>
       <link>https://ryskiewi.cz/about/</link>
       <pubDate>Sat, 25 Jun 2022 21:53:23 +0200</pubDate>
-      
       <guid>https://ryskiewi.cz/about/</guid>
-      <description>Contact mikolaj@ryskiewi.cz
-Research interests use of AI and ML in legal research (especially theory of law) legal informatics (jurimetrics) jurisprudence natural language processing (NLP) philosophy of language, cognitive and descriptive linguistics Education since 2020, PhD, Law, Doctoral School of Social Sciences, University of Warsaw
-Mainly research on:
-the inflation and volatility of the law, the relationship of these processes to the decline in the communicative quality of legal language, the implementation of machine learning methods into the theoretical and legal instrumentarium.</description>
+      <description>Contact mikolaj@ryskiewi.cz&#xA;Research interests use of AI and ML in legal research (especially theory of law) legal informatics (jurimetrics) jurisprudence natural language processing (NLP) philosophy of language, cognitive and descriptive linguistics Education since 2020, PhD, Law, Doctoral School of Social Sciences, University of Warsaw&#xA;Mainly research on:&#xA;the inflation and volatility of the law, the relationship of these processes to the decline in the communicative quality of legal language, the implementation of machine learning methods into the theoretical and legal instrumentarium.</description>
     </item>
-    
     <item>
       <title>Research</title>
       <link>https://ryskiewi.cz/research/</link>
       <pubDate>Sat, 25 Jun 2022 21:50:35 +0200</pubDate>
-      
       <guid>https://ryskiewi.cz/research/</guid>
-      <description>Publications Working on that :)
-Talks 8 Sep 2023, Subjective rights in the context of the problem of legal personality of AI: a review of positions, XI Congress of Young Theoreticians and Philosophers of Law &amp;ldquo;Taking Subjective Rights Seriously&amp;rdquo;, University of Warsaw 27 Jul 2023, How NLP deepens our understanding of the linguistic picture of the legal world, Law &amp;amp; Cognitive Science Conference, Jagiellonian University 14 Jan 2023, Legal aggregate, Interdisciplinary Conference of the Doctoral School in Social Sciences, University of Warsaw 24 Nov 2022, About the potential offered to the theory of law by the Natural Language Processing, International Scientific Conference &amp;ldquo;On the understanding of law and jurisprudence&amp;rdquo;, University of Szczecin, 9 Jul 2022, Why the law will never catch up with reality and why it should nevertheless try, II Congress of Young Science, University of Gdansk 24 Jun 2022, A linguistic picture of the legal world, National Scientific Conference &amp;ldquo;Language and Identity&amp;rdquo;, University of Warsaw 3 Jun 2022, The hidden face of juridification - the specter of delegitimization of the human rights system, National Scientific Conference &amp;ldquo;Towards Global Constitutionalism?</description>
+      <description>Publications A Statistical Picture of the Difficulty of Law, Archiwum Filozofii Prawa i Filozofii Społecznej 4(37)/2023, 79-97 Talks 8 Sep 2023, Subjective rights in the context of the problem of legal personality of AI: a review of positions, XI Congress of Young Theoreticians and Philosophers of Law &amp;ldquo;Taking Subjective Rights Seriously&amp;rdquo;, University of Warsaw 27 Jul 2023, How NLP deepens our understanding of the linguistic picture of the legal world, Law &amp;amp; Cognitive Science Conference, Jagiellonian University 14 Jan 2023, Legal aggregate, Interdisciplinary Conference of the Doctoral School in Social Sciences, University of Warsaw 24 Nov 2022, About the potential offered to the theory of law by the Natural Language Processing, International Scientific Conference &amp;ldquo;On the understanding of law and jurisprudence&amp;rdquo;, University of Szczecin, 9 Jul 2022, Why the law will never catch up with reality and why it should nevertheless try, II Congress of Young Science, University of Gdansk 24 Jun 2022, A linguistic picture of the legal world, National Scientific Conference &amp;ldquo;Language and Identity&amp;rdquo;, University of Warsaw 3 Jun 2022, The hidden face of juridification - the specter of delegitimization of the human rights system, National Scientific Conference &amp;ldquo;Towards Global Constitutionalism?</description>
     </item>
-    
   </channel>
 </rss>
