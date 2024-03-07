@@ -5,7 +5,6 @@
     <link>https://ryskiewi.cz/categories/</link>
     <description>Recent content in Categories on Mikołaj Ryśkiewicz</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <atom:link href="https://ryskiewi.cz/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://ryskiewi.cz/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
