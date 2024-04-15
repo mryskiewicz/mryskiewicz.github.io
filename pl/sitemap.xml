@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/pl/varia/</loc>
+    <loc>//localhost:1313/pl/varia/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/varia/"
+                href="//localhost:1313/varia/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="/pl/varia/"
+                href="//localhost:1313/pl/varia/"
                 />
   </url><url>
-    <loc>/pl/</loc>
+    <loc>//localhost:1313/pl/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="//localhost:1313/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="/pl/"
+                href="//localhost:1313/pl/"
                 />
   </url><url>
-    <loc>/pl/series/</loc>
+    <loc>//localhost:1313/pl/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/series/"
+                href="//localhost:1313/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="/pl/series/"
+                href="//localhost:1313/pl/series/"
                 />
   </url><url>
-    <loc>/pl/tags/</loc>
+    <loc>//localhost:1313/pl/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="//localhost:1313/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="/pl/tags/"
+                href="//localhost:1313/pl/tags/"
                 />
   </url>
 </urlset>
