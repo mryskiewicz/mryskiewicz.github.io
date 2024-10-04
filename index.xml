@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mikołaj Ryśkiewicz</title>
-    <link>/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on Mikołaj Ryśkiewicz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>/varia/</link>
+      <link>//localhost:1313/varia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/varia/</guid>
+      <guid>//localhost:1313/varia/</guid>
       <description>Books 2022: dokąd prowadzą urwane chodniki (Mamiko) Teleturnieje 2023.09.08: Va Banque 632 2023.09.07: Va Banque 631 2023.09.06: Va Banque 630 2023.08.01: Lato z dreszczykiem 11 2023.07.26: Lato z dreszczykiem 9 2023.07.11: Lato z dreszczykiem 7 2023.07.28: Skojarzenia Lata z Radiem 2022.10.07: Giganci Historii: Romantycy i Wielka Emigracja 2022.08.28: Polacy to wiedzą 10 2022.05.10: Jeden z dziesięciu 129/20 </description>
     </item>
     <item>
       <title>Dydaktyka</title>
-      <link>/dydaktyka/</link>
+      <link>//localhost:1313/dydaktyka/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/dydaktyka/</guid>
+      <guid>//localhost:1313/dydaktyka/</guid>
       <description>Informacje ogólne kontakt mailowy: m.ryskiewicz@uw.edu.pl (proszę nie pisać na adres w domenie @student.uw.edu.pl) dyżur: czwartki, 14:00-15:00, sala 318 (CI I) Terminy prawoznawstwo, grupa 10: środy, 15:00-16:30, sala 2.3 (CI II) prawoznawstwo, grupa 9: czwartki, 9:45-11:15, sala 1.4 (CI II) teoria i filozofia prawa niestacjonarne, grupa 3: czwartki, 11:30-13:00, sala 319 (CI I) teoria i filozofia prawa stacjonarne, grupa 4: czwartki, 15:00-16:30, sala 319 (CI I) migracje: w granicach rozsądku Programy zajęć i warunki zaliczenia prawoznawstwo teoria i filozofia prawa </description>
     </item>
     <item>
       <title>Prawoznawstwo</title>
-      <link>/prawoznawstwo/</link>
+      <link>//localhost:1313/prawoznawstwo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/prawoznawstwo/</guid>
-      <description>Podręcznik Obowiązkowy: Chauvin, T., Stawecki, T., Winczorek, P. (2021). Wstęp do prawoznawstwa.&#xA;(Rozkład zajęć jest ustalany względem najnowszego wydania, ale można korzystać z dowolnego.)&#xA;Fakultatywny: Nowacki, J., Tobor, Z. (2020). Wstęp do prawoznawstwa.&#xA;Linki strona główna przedmiotu na Kampusie syllabus w usosie link do zapisów na prezentację – będzie uruchomiony link do grupy na facebooku - będzie uruchomiony Warunki zaliczenia &amp;gt;=60 punktów uczestnictwo w zajęciach: od 3. nieobecności w górę – bez względu na przyczynę – należy odrobić zajęcia w wyznaczony sposób więcej niż połowa nieobecności skutkuje nieklasyfikowaniem z przedmiotu sytuacje nadzwyczajne ustala się indywidualnie Punkty kolokwium: 35 punktów esej: 30 punktów aktywność: 15 punktów praca w grupach: 10 punktów prezentacja: 5 punktów mały esej: 5 punktów Skala ocen &amp;lt;60: 2 60-70: 3 70-75: 3.</description>
+      <guid>//localhost:1313/prawoznawstwo/</guid>
+      <description>Podręcznik Obowiązkowy: Chauvin, T., Stawecki, T., Winczorek, P. (2021). Wstęp do prawoznawstwa.&#xA;(Rozkład zajęć jest ustalany względem najnowszego wydania, ale można korzystać z dowolnego.)&#xA;Fakultatywny: Nowacki, J., Tobor, Z. (2020). Wstęp do prawoznawstwa.&#xA;Linki strona główna przedmiotu na Kampusie syllabus w usosie link do zapisów na prezentację Warunki zaliczenia &amp;gt;=60 punktów uczestnictwo w zajęciach: od 3. nieobecności w górę – bez względu na przyczynę – należy odrobić zajęcia w wyznaczony sposób więcej niż połowa nieobecności skutkuje nieklasyfikowaniem z przedmiotu sytuacje nadzwyczajne ustala się indywidualnie Punkty kolokwium: 35 punktów esej: 30 punktów aktywność: 15 punktów praca w grupach: 10 punktów prezentacja: 5 punktów mały esej: 5 punktów Skala ocen &amp;lt;60: 2 60-70: 3 70-75: 3.</description>
     </item>
     <item>
       <title>Teoria i filozofia prawa</title>
-      <link>/tifp/</link>
+      <link>//localhost:1313/tifp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tifp/</guid>
-      <description>Podręcznik Do przedmiotu nie ma podręcznika – ćwiczenia polegają na pracy na tekstach źródłowych. Uzupełniająco można wspomagać się podręcznikiem fakultatywnym: Dyrda, A. (red.) (2021). Teoria i filozofia prawa. Warszawa: Wolters Kluwer.&#xA;Linki strona główna przedmiotu na Kampusie (w tym wszystkie teksty źródłowe) syllabus w usosie link do zapisów na prezentację - będzie uruchomiony link do grupy na facebooku - będzie uruchomiony Warunki zaliczenia &amp;gt;=60 punktów uczestnictwo w zajęciach: od 3. nieobecności w górę – bez względu na przyczynę – należy odrobić zajęcia w wyznaczony sposób więcej niż połowa nieobecności skutkuje nieklasyfikowaniem z przedmiotu sytuacje nadzwyczajne ustala się indywidualnie Punkty esej: 50 punktów aktywność: 20 punktów prezentacja: 15 punktów mały esej: 15 punktów Skala ocen &amp;lt;60: 2 60-70: 3 70-75: 3.</description>
+      <guid>//localhost:1313/tifp/</guid>
+      <description>Podręcznik Do przedmiotu nie ma podręcznika – ćwiczenia polegają na pracy na tekstach źródłowych. Uzupełniająco można wspomagać się podręcznikiem fakultatywnym: Dyrda, A. (red.) (2021). Teoria i filozofia prawa. Warszawa: Wolters Kluwer.&#xA;Linki strona główna przedmiotu na Kampusie (w tym wszystkie teksty źródłowe) syllabus w usosie link do zapisów na prezentację - będzie uruchomiony Warunki zaliczenia &amp;gt;=60 punktów uczestnictwo w zajęciach: od 3. nieobecności w górę – bez względu na przyczynę – należy odrobić zajęcia w wyznaczony sposób więcej niż połowa nieobecności skutkuje nieklasyfikowaniem z przedmiotu sytuacje nadzwyczajne ustala się indywidualnie Punkty esej: 50 punktów aktywność: 20 punktów prezentacja: 15 punktów mały esej: 15 punktów Skala ocen &amp;lt;60: 2 60-70: 3 70-75: 3.</description>
     </item>
   </channel>
 </rss>
