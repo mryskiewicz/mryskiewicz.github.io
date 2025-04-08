@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mikołaj Ryśkiewicz</title>
+    <meta name="description" content="Mikołaj Ryśkiewicz – Empirical Jurisprudence and AI &amp; Law" />
+    <meta name="keywords" content="law, linguistics, legal linguistics, computational linguistics" />
+    <meta name="author" content="Mikołaj Ryśkiewicz" />
+    
+    <link rel="icon" type="image/x-icon" href="../static/favicon.ico" />
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+    
+    <link rel="stylesheet" href="../static/css/style.css" />
+    
+  </head>
+  <body>
+    <div class="container">
+      <main id="main-content">
+        
+          <!-- Subpage content -->
+          <h1>Dyżur online</h1>
+<h3>Dyżur online</h3>
+<p>Poniedziałki, 12:00-14:00</p>
+<h3>Zasady dyżuru online</h3>
+<ol>
+<li>Dyżur odbywa się w wyznaczonych godzinach</li>
+<li>Nie ma potrzeby wcześniejszego umawiania się</li>
+<li>W razie problemów technicznych proszę o kontakt mailowy</li>
+</ol>
+<p><a href="index.html">Powrót do dydaktyki</a></p>
+        
+      </main>
+
+      <aside class="side-menu">
+        <a href="../" >
+          <img
+            src="../static/img/profile.png"
+            alt="Mikołaj Ryśkiewicz"
+            class="profile-photo"
+          />
+        </a>
+
+        <div class="menu-section">
+          <div class="bio">
+            <div data-lang="en">PhD student in Empirical Jurisprudence, University of Warsaw.
+</div>
+            <div data-lang="pl">PhD student in Empirical Jurisprudence, University of Warsaw.
+</div>
+          </div>
+        </div>
+
+        <div class="menu-section social-links">
+          <span
+            class="copyable"
+            onclick="copyEmail()"
+            data-email="mikolaj@ryskiewi.cz"
+            >mikolaj@ryskiewi.cz</span
+          >
+          
+          <a
+            href="https://github.com/mryskiewicz"
+            target="_blank"
+            rel="noopener"
+            >github</a
+          >
+           
+          <a
+            href="https://linkedin.com/in/mikolajryskiewicz"
+            target="_blank"
+            rel="noopener"
+            >linkedin</a
+          >
+           
+          <a
+            href="https://scholar.google.com/citations?user=usTNZREAAAAJ"
+            target="_blank"
+            rel="noopener"
+            >scholar</a
+          >
+           
+          <a
+            href="https://orcid.org/0000-0001-9628-5001"
+            target="_blank"
+            rel="noopener"
+            >orcid</a
+          >
+          
+        </div>
+
+        <div class="menu-section">
+          
+            <a href="../dydaktyka">dydaktyka</a>
+          
+        </div>
+
+        <div class="menu-section grow"></div>
+
+        <div class="menu-section theme-switch">
+          <button onclick="toggleTheme()">◐</button>
+        </div>
+
+        <div class="menu-section lang-switch">
+          <a href="javascript:void(0)" onclick="switchLanguage('en')"
+            >English</a
+          >
+          |
+          <a href="javascript:void(0)" onclick="switchLanguage('pl')">polski</a>
+        </div>
+
+        <div class="menu-section copyright">
+          Mikołaj Ryśkiewicz © 2025.<br />All rights reserved.
+        </div>
+
+        <div id="tooltip" class="tooltip">
+          <span data-lang="en">Copied!</span>
+          <span data-lang="pl">Skopiowano!</span>
+        </div>
+      </aside>
+    </div>
+
+    <script>
+      // Language switcher
+      function switchLanguage(lang) {
+        // Save current scroll position
+        const scrollPos = window.scrollY;
+
+        // Switch language
+        document.querySelectorAll("[data-lang]").forEach((el) => {
+          el.classList.toggle("active", el.getAttribute("data-lang") === lang);
+        });
+        localStorage.setItem("language", lang);
+        document.documentElement.lang = lang;
+
+        // Restore scroll position after a tiny delay
+        setTimeout(() => window.scrollTo(0, scrollPos), 0);
+      }
+
+      // Theme management
+      function getPreferredTheme() {
+        if (localStorage.getItem("theme")) {
+          return localStorage.getItem("theme");
+        }
+        return window.matchMedia("(prefers-color-scheme: dark)").matches
+          ? "dark"
+          : "light";
+      }
+
+      function toggleTheme() {
+        const body = document.body;
+        const currentTheme = getPreferredTheme();
+        const newTheme = currentTheme === "light" ? "dark" : "light";
+        body.dataset.theme = newTheme;
+        localStorage.setItem("theme", newTheme);
+        button.textContent = newTheme === "light" ? "◐" : "◑";
+      }
+
+      // Email copy functionality
+      function copyEmail() {
+        const emailSpan = document.querySelector(".copyable");
+        const email = emailSpan.dataset.email;
+        navigator.clipboard.writeText(email);
+
+        const tooltip = document.getElementById("tooltip");
+        const rect = emailSpan.getBoundingClientRect();
+
+        tooltip.style.left = `${rect.left}px`;
+        tooltip.style.top = `${rect.bottom + 5}px`;
+        tooltip.classList.add("visible");
+
+        setTimeout(() => {
+          tooltip.classList.remove("visible");
+        }, 2000);
+      }
+
+      // Initialize theme and language
+      document.body.dataset.theme = getPreferredTheme();
+
+      // Listen for system theme changes
+      window
+        .matchMedia("(prefers-color-scheme: dark)")
+        .addEventListener("change", (e) => {
+          if (!localStorage.getItem("theme")) {
+            document.body.dataset.theme = e.matches ? "dark" : "light";
+          }
+        });
+
+      function switchPage(page) {
+        // Hide all pages
+        document.querySelectorAll("[data-page]").forEach((el) => {
+          el.classList.remove("active");
+        });
+
+        // Show selected page
+        document.querySelector(`[data-page="${page}"]`).classList.add("active");
+      }
+
+      // Get saved language or default to English
+      const savedLanguage = localStorage.getItem("language") || "en";
+      switchLanguage(savedLanguage);
+
+      // Set initial page
+      switchPage("index");
+    </script>
+  </body>
+</html>

@@ -1,0 +1,280 @@
+:root {
+  --bg-color: #ffffff;
+  --text-color: #1a1a1a;
+  --menu-bg: #f5f5f5;
+  --accent-color: #ff0000;
+  --menu-width: 300px;
+}
+
+[data-theme="dark"] {
+  --bg-color: #1a1a1a;
+  --text-color: #ffffff;
+  --menu-bg: #2d2d2d;
+}
+
+body {
+  font-family: "JetBrains Mono", monospace;
+  margin: 0;
+  padding: 0;
+  background: var(--bg-color);
+  color: var(--text-color);
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.container {
+  display: flex;
+  min-height: 100vh;
+  position: relative;
+  padding-right: var(--menu-width);
+  max-width: 1500px;
+  margin: 0 auto;
+}
+
+main {
+  flex: 1;
+  padding: 3rem;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+
+
+/* Scrollbar styles */
+::-webkit-scrollbar {
+  width: 12px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--text-color);
+  border-radius: 6px;
+}
+
+::-webkit-scrollbar-thumb:active {
+  background: var(--accent-color);
+}
+
+.side-menu {
+  position: fixed;
+  right: 0;
+  top: 0;
+  width: var(--menu-width);
+  height: 100vh;
+  background: var(--menu-bg);
+  padding: 2rem;
+  box-sizing: border-box;
+  overflow-y: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+.profile-photo {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin: 0 auto 1rem;
+  display: block;
+  object-fit: cover;
+  transition: transform 0.2s ease;
+}
+
+.profile-photo:hover {
+  transform: scale(1.1);
+}
+
+a:has(.profile-photo):hover {
+  background: none;
+}
+
+.bio {
+  margin-bottom: 2rem;
+  line-height: 1.5;
+  text-align: center;
+}
+
+.menu-section {
+  margin: 0.8rem 0;
+  text-align: center;
+}
+
+.menu-section.social-links,
+.menu-section:has(.copyable),
+.menu-section:has(.teaching-link) {
+  margin: 0;
+}
+
+.menu-section.grow {
+  flex-grow: 1;
+}
+
+.social-links {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.submenu {
+  margin: 0.5rem 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+
+.submenu a {
+  font-size: 0.9em;
+  opacity: 0.8;
+  padding-left: 1rem;
+}
+
+.submenu a:hover {
+  opacity: 1;
+}
+
+.social-links > * {
+  display: inline-block;
+}
+
+.social-links a {
+  color: var(--text-color);
+  text-decoration: none;
+}
+
+.lang-switch {
+  text-align: center;
+  font-size: 0.9em;
+}
+
+.lang-switch a {
+  text-decoration: none;
+  padding: 0 0.5rem;
+}
+
+.theme-switch {
+  text-align: center;
+}
+
+.theme-switch button {
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  cursor: pointer;
+  padding: 0.3rem;
+  transition: color 0.2s;
+  width: 3rem;
+  height: 3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+.theme-switch button:hover {
+  color: var(--accent-color);
+}
+
+/* Selection style */
+::selection {
+  background-color: var(--accent-color);
+  color: white;
+}
+
+/* Link styles */
+a,
+.copyable {
+  color: var(--text-color);
+  text-decoration: none;
+  transition: background-color 0.2s;
+  cursor: pointer;
+  padding: 0.1rem 0.3rem;
+}
+
+/* Content links (outside menu) */
+main a {
+  background-color: rgba(255, 0, 0, 0.05);
+}
+
+a:hover,
+.copyable:hover {
+  background-color: var(--accent-color);
+  color: white;
+}
+
+.copyright {
+  font-size: 0.8em;
+  opacity: 0.8;
+  line-height: 1.4;
+}
+
+a:hover,
+.copyable:hover {
+  background-color: var(--accent-color);
+  color: white;
+}
+
+.tooltip {
+  position: fixed;
+  background: var(--menu-bg);
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.2s;
+}
+
+.tooltip.visible {
+  opacity: 1;
+}
+
+/* Language content visibility */
+[data-lang],
+[data-page] {
+  display: none;
+}
+
+[data-lang].active,
+[data-page].active {
+  display: block;
+}
+
+.language-notice {
+  padding: 2rem;
+  background: var(--menu-bg);
+  border-radius: 8px;
+  text-align: center;
+}
+
+.language-notice h2 {
+  margin-top: 0;
+  color: var(--accent-color);
+}
+
+.language-notice p {
+  margin: 1rem 0;
+  opacity: 0.8;
+}
+
+@media (max-width: 1200px) {
+  .container {
+    flex-direction: column;
+    padding-right: 0;
+    padding-bottom: 400px;
+  }
+
+  .side-menu {
+    position: fixed;
+    width: 100%;
+    height: auto;
+    bottom: 0;
+    top: auto;
+  }
+
+  main {
+    margin: 0 auto;
+    padding: 2rem;
+  }
+}
