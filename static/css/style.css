@@ -300,10 +300,9 @@ a:hover,
     padding: 1rem;
     border-radius: 0;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     align-items: center;
-    gap: 1rem;
-    flex-wrap: wrap;
+    text-align: center;
   }
 
   main {
@@ -312,26 +311,28 @@ a:hover,
   }
 
   .profile-photo {
-    width: 60px;
-    height: 60px;
-    margin: 0;
+    width: 80px;
+    height: 80px;
+    margin-bottom: 1rem;
   }
 
   .bio {
-    margin: 0;
-    flex: 1;
-    min-width: 200px;
+    margin-bottom: 1rem;
   }
 
   .menu-section {
-    margin: 0;
+    margin-bottom: 1rem;
+    width: 100%;
   }
 
   .social-links {
-    flex: 1;
     display: flex;
-    justify-content: flex-end;
-    gap: 1rem;
-    min-width: 200px;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  .social-links a, .social-links span {
+    margin: 0;
   }
 }
