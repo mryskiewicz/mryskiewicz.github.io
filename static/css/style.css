@@ -37,28 +37,34 @@ main {
   margin: 0 auto;
 }
 
+/* Global content styles */
+main p,
+main ul,
+main ol,
+main li {
+  line-height: 1.2;
+}
+
+main h1 {
+  margin-bottom: 1rem;
+}
+
+main h2 {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+/* Markdown content specific styles */
 .markdown-content {
   max-width: 800px;
   margin: 0 auto;
 }
 
-.markdown-content h1 {
-  margin-bottom: 2rem;
+/* Lists in employment and education sections */
+ol li,
+ul li {
+  margin: 0.5rem 0;
 }
-
-.markdown-content h2 {
-  margin-top: 2rem;
-  margin-bottom: 1rem;
-}
-
-.markdown-content p,
-.markdown-content ul,
-.markdown-content ol {
-  margin: 1rem 0;
-  line-height: 1.6;
-}
-
-
 
 /* Scrollbar styles */
 ::-webkit-scrollbar {
@@ -292,9 +298,15 @@ a:hover,
   margin-bottom: 1rem;
 }
 
-.markdown-content h1 { font-size: 2rem; }
-.markdown-content h2 { font-size: 1.5rem; }
-.markdown-content h3 { font-size: 1.17rem; }
+.markdown-content h1 {
+  font-size: 2rem;
+}
+.markdown-content h2 {
+  font-size: 1.5rem;
+}
+.markdown-content h3 {
+  font-size: 1.17rem;
+}
 
 .markdown-content p,
 .markdown-content ul,
@@ -353,7 +365,8 @@ a:hover,
     gap: 0.5rem;
   }
 
-  .social-links a, .social-links span {
+  .social-links a,
+  .social-links span {
     margin: 0;
   }
 }
